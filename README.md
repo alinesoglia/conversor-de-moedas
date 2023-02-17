@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Conversor de Moedas é uma aplicativo que realiza a conversão de Dólares, Euros ou BitCoins para Real.
+O Conversor de Moedas é um aplicativo que realiza a conversão de Dólares, Euros ou BitCoins para Real.
 
 - [Visite o projeto online](https://alinesoglia.github.io/conversor-de-moedas/)
 
